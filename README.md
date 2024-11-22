@@ -1,5 +1,9 @@
 # EEC174 AY Project B2: 1D CNN and Segmentation for Medical Data (Student)
 
+### Phase 1: Arrhythmia on ECG Classification Using 1D CNN
+
+### Phase 2: Semantic Segmentation on Lung CT Scans
+
 This is your private repository containing the code for Project B2. Make changes and push to this repository to complete the project.
 
 Track B TA (Yui) will go over all instructions during Lab walkthrough. Please read all the instructions carefully. Instructions may be updated throughout the course of the project.
